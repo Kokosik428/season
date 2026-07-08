@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "acb22490a7b0491d4aa2af1883a93ccd0748fc2f8b1e9daf2cd42fa7860ebf69"
-
-[[files]]
 file = "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
 hash = "60b548bef04a2f0e1da686ee9035c2e3d4ed0459a17d7a4836fc26af6de6b60e"
 
