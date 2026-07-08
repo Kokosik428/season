@@ -1,0 +1,613 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "acb22490a7b0491d4aa2af1883a93ccd0748fc2f8b1e9daf2cd42fa7860ebf69"
+
+[[files]]
+file = "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
+hash = "60b548bef04a2f0e1da686ee9035c2e3d4ed0459a17d7a4836fc26af6de6b60e"
+
+[[files]]
+file = "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar.disabled"
+hash = "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26"
+
+[[files]]
+file = "mods/BrewinAndChewin-neoforge-4.5.0+1.21.1.jar"
+hash = "9f6581823c2449dde4ac1e9b4f5a7cc226c42e058e656741ab392f714f443971"
+
+[[files]]
+file = "mods/CameraOverhaul-v2.1.1-neoforge+mc[1.21-1.21.1].jar.disabled"
+hash = "9d520fbee153cc2609bff130f952728c8eca11ab2245a036b1104beeb839ebca"
+
+[[files]]
+file = "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar"
+hash = "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
+
+[[files]]
+file = "mods/Continents_26.1_v1.1.13.jar"
+hash = "a9fccccfd3516181538290f1e8df4e47e794ed69c4f0b26aa7d72b46cf85eb7e"
+
+[[files]]
+file = "mods/EggDelight-v1.2-1.21.1(+ru).jar"
+hash = "d8f36da03904d859100daa9ccf6ce1fe8fa6746d4a76b387698ed95db67ae288"
+
+[[files]]
+file = "mods/FarmersDelight-1.21.1-1.3.2.jar"
+hash = "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
+
+[[files]]
+file = "mods/Geophilic v3.6.mod.jar"
+hash = "5df284ed678c8f44d5f9b015736c18858d8b5706128bbe129fc35bc23208bd84"
+
+[[files]]
+file = "mods/Glaidens-Vista-improvements-1.0.2.jar"
+hash = "26bebf1caff866cd9f0100aaf31347ac60786569f7fc042aee9b2fad35209c39"
+
+[[files]]
+file = "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+hash = "59d2a3fb3d6877e43018fd6a2b199d526074a864276a5f49091409a1cdc62fae"
+
+[[files]]
+file = "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar"
+hash = "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0"
+
+[[files]]
+file = "mods/Jade-1.21.1-NeoForge-15.10.5.jar"
+hash = "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
+
+[[files]]
+file = "mods/KeybindAtlas-v1.4.0-mc1.21.1-neoforge.jar"
+hash = "d14e872d8201d474d05d2f0b5b513c791c048c43b5412536e9aa79015423c985"
+
+[[files]]
+file = "mods/Kiwi-1.21.1-NeoForge-15.8.4.jar"
+hash = "567cef494357c952cb9f83477ba55e14969fa561384683960872f101fcaaa447"
+
+[[files]]
+file = "mods/L_Ender's Cataclysm 1.21.1-3.27.jar"
+hash = "fa4e8abd15aa86333d6a5fe20b05c4fe423ac865da7319be7808d321bcb3930c"
+
+[[files]]
+file = "mods/Mod Menu (NeoForge Edition) 1.21.1-1.0.2.jar"
+hash = "254adf32afefc94a26505a79b66a64907bf07eb6e2a5890b9dd52a913fa53130"
+
+[[files]]
+file = "mods/MyNethersDelight-1.21.1-1.10.2.jar"
+hash = "002678f15ae0e61805d3bbd0bc8c7d7f683d63e6ab479ff8fb2518514134c4c2"
+
+[[files]]
+file = "mods/OctoLib-NEOFORGE-0.6.2+1.21.jar"
+hash = "92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38"
+
+[[files]]
+file = "mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge (1).jar"
+hash = "00069866c4c6bb67ee5192d1b425d46e6a1601dc598e61bd10b67ba5fa8b029c"
+
+[[files]]
+file = "mods/Quark-4.1-479.jar"
+hash = "e75c07635fc2d36c81c127d20b285681c73c3c9b73fff3f01daf2d2b22469da6"
+
+[[files]]
+file = "mods/UniversalEnchants-v21.1.6-1.21.1-NeoForge.jar"
+hash = "b1455b6c31b84809d80620699486dbe6f253d827c7e5f7483caf123c16933a38"
+
+[[files]]
+file = "mods/VS-Sable-HoseConnectors-0.1.8-1.21.1.jar"
+hash = "32bc4b03b086646185548925b4f4044054031df99d1368546186de64e5a71a63"
+
+[[files]]
+file = "mods/VeggiesDelight-1.21.1-1.9.2.jar"
+hash = "d33f60cba68d385f5841805548efa9d994fcdaac7efb2aecf5344cda48acd6c1"
+
+[[files]]
+file = "mods/VistaAeronauticsFix-1.0.0.jar"
+hash = "81c7808d33876e10f53e0bc61fa6d4893f98bf5527706c45659c7f2c360a1c71"
+
+[[files]]
+file = "mods/WakesSableCompat v1.0.0-1.21.1.jar.disabled"
+hash = "0076fec80379bc17f2375249f943f3bd4fa7c54015383d5590f00a7bc7f54192"
+
+[[files]]
+file = "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar"
+hash = "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
+
+[[files]]
+file = "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar"
+hash = "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4"
+
+[[files]]
+file = "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
+hash = "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58"
+
+[[files]]
+file = "mods/Zeta-1.1-40.jar"
+hash = "4f17d1a2b9fd6d18ddb7697aa451db7fb154053b8648f79de279ae0d7e68a2fa"
+
+[[files]]
+file = "mods/aeroworks-1.2.11.jar"
+hash = "1d1585e7a9c36f9b47c62f1bc7e0e502512e749707e209ff8b07251f8bb9ff0d"
+
+[[files]]
+file = "mods/amendments-1.21-2.0.15-neoforge.jar"
+hash = "e44e67d5c2eb5a73ee8ca3d1e9099ed20ccbf8167022bc407df8434b1bf362b5"
+
+[[files]]
+file = "mods/architectury-13.0.8-neoforge.jar"
+hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+
+[[files]]
+file = "mods/armourersworkshop-forge-1.21.1-3.4.0-beta.2.jar"
+hash = "3ee040a547594d6354de49998ed9fb82285093a31a5c138090c279b173c3e08d"
+
+[[files]]
+file = "mods/barbequesdelight(+ru)-1.3.0.jar"
+hash = "224f178a945d92c2e097573d76c67a3d9ac8c42add3768494d1df6df2d3d0fce"
+
+[[files]]
+file = "mods/bedrock-hotbar-neoforge-1.10+1.21.jar"
+hash = "9300f7f7bc90b6b0b5ae0c8d3311eaf11a6cb50980d12eef56da5d2433d2d691"
+
+[[files]]
+file = "mods/better_screenshots-1.5+1.21-1.21.1.jar"
+hash = "56857dda96c699900f2bde6cfb84b055a9d35e4f5b5b6aafb52b483f769ae36e"
+
+[[files]]
+file = "mods/better_tab-2.1.4+1.21.1-neoforge.jar"
+hash = "060a49f65f15922b312fb1211bebbb74644354c02142f89212889efa6a389f01"
+
+[[files]]
+file = "mods/bettercombat-neoforge-2.3.2+1.21.1.jar"
+hash = "afb1f28271ee3b622947f533aa754bb22ed67edd4940a3e9fdf2cca1edb7b8a9"
+
+[[files]]
+file = "mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar"
+hash = "9e230bd509e7aeb3af4c08125db0340734c0179d83483649a16e45c0ea085e8c"
+
+[[files]]
+file = "mods/bobby_reneoforged-5.2.4-0.3+mc1.21.jar"
+hash = "32a074d75ec64e102c336b117d1ac594653eccd887d94347aae0b2ccb91c0707"
+
+[[files]]
+file = "mods/bookshelf-neoforge-1.21.1-21.1.81.jar"
+hash = "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76"
+
+[[files]]
+file = "mods/born_in_chaos_[Neoforge]_1.21.1_1.7.5.jar"
+hash = "9afebf09cf6a75e731c9eda414fcebc2a414f9e3d834ceea49bbfcc9c45492b7"
+
+[[files]]
+file = "mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.113.jar"
+hash = "d0798b7ef4e4ddff44ea61332d5464fcd27659af3e8c773c4d7ef2c4730e624f"
+
+[[files]]
+file = "mods/camera-neoforge-1.21.1-1.0.21.jar"
+hash = "2a84a2c208132eacfb2deb51d9a0903e04cac93ebc8e7932dfa381af56132974"
+
+[[files]]
+file = "mods/cataclysm_compat_1.21.1-1.0.2.jar"
+hash = "467e4a03ef4891080506d4e1d8aa303e918f6488e8dcad5cfcbf139ae11a12c2"
+
+[[files]]
+file = "mods/cc-tweaked-1.21.1-forge-1.119.0.jar"
+hash = "169e2fe0445e320562c0568baa4c796a69a3464a0a5e902c484be1be3e326a0b"
+
+[[files]]
+file = "mods/cc_sable-neoforge-1.3.4.jar"
+hash = "7504abc1666a03e25ee2b8f99c352571b84edc5f85db24fa492d7b70d77adfeb"
+
+[[files]]
+file = "mods/cccbridge-mc1.21.1-v1.7.2-neoforge.jar"
+hash = "cc268961ea1b1a0d4e36eaff36d8b987e2f65b113d230a125953778ec83c6687"
+
+[[files]]
+file = "mods/chat_heads-0.15.1-neoforge-1.21.jar"
+hash = "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41"
+
+[[files]]
+file = "mods/chatanimation-neoforge-1.21.1-1.1.3.jar.disabled"
+hash = "2830e1699ccf66d618376abf2bc756a4763096b2f31b4812c452822e86860b13"
+
+[[files]]
+file = "mods/chefsdelight-1.0.5-neoforge-1.21.1.jar"
+hash = "9fd7920a4cced00443c107c1ac05002b35543734c76e05ef1d1ebf5f17ce99c8"
+
+[[files]]
+file = "mods/chloride-NEOFORGE-mc1.21.1-v1.7.9.jar"
+hash = "9821b089d6f34043d2a3a4d38a6d07048bfb0a0419da3ecca0ad228f088c4e23"
+
+[[files]]
+file = "mods/climbable_ropes-2.0.0.jar"
+hash = "6e5d8c89b57a96b212709f210709aad491aec5d8ae475f9aed63c1465b918da6"
+
+[[files]]
+file = "mods/cloth-config-15.0.140-neoforge.jar"
+hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+
+[[files]]
+file = "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
+hash = "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+
+[[files]]
+file = "mods/corpse-neoforge-1.21.1-1.1.13.jar"
+hash = "80d984f0a17d968220129cc58edd5c9f28a5f61a84ec67dcc41228a46dfa4bb1"
+
+[[files]]
+file = "mods/crabbersdelight-1.21.1-1.2.6.jar"
+hash = "dde14329fa2ee127a76c27af4dad2608c3405d3639260478f765b5d819f69dc4"
+
+[[files]]
+file = "mods/craft_config-1.1.10+1.21.1-neoforge.jar"
+hash = "c84caf349f5dd74db2d8b334d82d22f7078fb6a7fb1379b42f0f2433e4e6d5c9"
+
+[[files]]
+file = "mods/create-1.21.1-6.0.10.jar"
+hash = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+
+[[files]]
+file = "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar"
+hash = "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
+
+[[files]]
+file = "mods/create_connected-1.2.2-mc1.21.1.jar"
+hash = "081ca6ff6d9fbfcd97cf8b278ed4f8a67499d3f3238b9e681d8bf2dab0d358e4"
+
+[[files]]
+file = "mods/create_grappling_hooks-1.2.0.jar"
+hash = "93e92e126f48f14f76022229dd4d85ac357bf937c4c943ffc3b5e58a1bb8ce7b"
+
+[[files]]
+file = "mods/createaddition-1.6.0.jar"
+hash = "41876c3780b70365a1848994d146a73423cc19fbe86485885795d9e7d855e7e9"
+
+[[files]]
+file = "mods/createbetterfps-1.21.1-1.1.4.jar"
+hash = "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a"
+
+[[files]]
+file = "mods/createbigcannons-5.11.7+mc.1.21.1.jar"
+hash = "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
+
+[[files]]
+file = "mods/createdeco-2.1.3 (1).jar"
+hash = "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
+
+[[files]]
+file = "mods/createdieselgenerators-1.21.1-1.3.12.jar"
+hash = "becdacb4eabdee5846e9821fd6de50fd31698816151ce1e0ab23818136bcec73"
+
+[[files]]
+file = "mods/createpropulsion-1.1.4.jar"
+hash = "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1"
+
+[[files]]
+file = "mods/createthreadedtrains-neoforge-1.21.1-1.0.0.jar"
+hash = "cac002b0fb77ec1dd48cf76a07dd5f2341b632788e1add768cf5c555823e4b38"
+
+[[files]]
+file = "mods/culturaldelights-0.17.8.jar"
+hash = "3d0255548fd4cafb04d7eaa9092a10993b67c9f5084865970b4e3d414a964911"
+
+[[files]]
+file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
+hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+
+[[files]]
+file = "mods/delightlib-26.05.18-1.21-neoforge.jar"
+hash = "12cec5fe907a23a975898948352868d5cbcf5fd5cab7aad415750becdcc7c5c4"
+
+[[files]]
+file = "mods/displaydelight-1.6.0.jar"
+hash = "7f11e07bf93b4d9869f26b8d7f47322f4111229eecdfee57c80973987a346219"
+
+[[files]]
+file = "mods/dreamdisplays-neoforge-1.21.1-1.8.7.jar"
+hash = "006872c7361aba42e8892ac7aa88baff9db4530fe9f147028a03348089ef6211"
+
+[[files]]
+file = "mods/dungeons-and-taverns-v4.4.4.jar"
+hash = "1db28e89e0cb76aebe9e40955d1866e8ac1779575d15c2a1e250ac804a762d05"
+
+[[files]]
+file = "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar"
+hash = "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"
+
+[[files]]
+file = "mods/easegui-0.2.0-neoforge-1.21.1.jar.disabled"
+hash = "4e9a93f4e8a59365dac37c135e05a8290721e8c848e0e21b1d8fce879968f6d2"
+
+[[files]]
+file = "mods/enchdesc-neoforge-1.21.1-21.1.9.jar"
+hash = "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843"
+
+[[files]]
+file = "mods/ends_delight-2.5.1+neoforge.1.21.1.jar"
+hash = "58dbac7560ead20b5c252d03fc5fa1941ab429b277a6eb86ed576fb60c7cc41d"
+
+[[files]]
+file = "mods/entity_model_features-3.2.4-1.21-neoforge.jar"
+hash = "84c22f2be06ee6bfab265a443e075225878bba9f408843030dc6de3152e9dedb"
+
+[[files]]
+file = "mods/entity_texture_features_1.21-neoforge-7.1.jar"
+hash = "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b"
+
+[[files]]
+file = "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar"
+hash = "20014df18edb983b2c8eb764e70209ef84a4ac5aefd29ef25502fb102b0306cd"
+
+[[files]]
+file = "mods/etched-5.0.1.jar"
+hash = "b5a380e10cc4582547248d0e8b031b2a0e5eaecdec1921a82778f8660c30d109"
+
+[[files]]
+file = "mods/expandeddelight(+ru)-0.1.4.jar"
+hash = "88ca07b9d140f5a9e7e352748cbdc89a28588318a68342ecb2f858292ac0ab07"
+
+[[files]]
+file = "mods/ferritecore-7.0.3-neoforge (1).jar"
+hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+
+[[files]]
+file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1 (1).jar"
+hash = "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
+
+[[files]]
+file = "mods/fruitsdelight(+ru)-1.2.14.jar"
+hash = "7b20340d7fc68d408728e7073c667d1904d7ea07510a9cf5b58f332c67a0fc2a"
+
+[[files]]
+file = "mods/fzzy_config-0.7.6+1.21+neoforge.jar"
+hash = "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
+
+[[files]]
+file = "mods/geckolib-neoforge-1.21.1-4.8.4.jar"
+hash = "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9"
+
+[[files]]
+file = "mods/hybrid-beta-1.0.4.1.jar"
+hash = "8f01a709df61b3314fe079846cb23ea9aad84dfd8507a6a6459b73a7188a947d"
+
+[[files]]
+file = "mods/itemzoomer-neoforge-2.2.1-1.21.1.jar"
+hash = "133b9ac38fea9d24e5e066bab3378667b06e4e96503e0f2aa81794b6c056b60f"
+
+[[files]]
+file = "mods/jei-1.21.1-neoforge-19.27.0.340.jar"
+hash = "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
+
+[[files]]
+file = "mods/kotlinforforge-5.11.0-all.jar"
+hash = "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1"
+
+[[files]]
+file = "mods/kubejs-neoforge-2101.7.2-build.368 (2).jar"
+hash = "01767bb677a9c4a8f318717c4c21bca7e7ef80995603403a551068a0e064e740"
+
+[[files]]
+file = "mods/lambdynamiclights-4.8.8+1.21.1.jar"
+hash = "5c41d55ad9306f8d0a8c1b0174d71a3e333026b08adb6883653cd91ab6c5bea0"
+
+[[files]]
+file = "mods/letsdo-herbalbrews-neoforge-1.1.3.jar"
+hash = "053ecf864dc1b1624b0fb78a552a086ee9da21c1c81ce5a75aad61ec2bfebf24"
+
+[[files]]
+file = "mods/lionfishapi-2.8.jar"
+hash = "29b54d95e7d3c34bb19a5598284a1e1361676e920eaf00ce456b6d5125f960db"
+
+[[files]]
+file = "mods/lithium-neoforge-0.15.3+mc1.21.1.jar"
+hash = "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83"
+
+[[files]]
+file = "mods/lodestone-1.21.1-1.8.2.jar"
+hash = "cc961af6a77391628378c1c838e521415fa895062b13def493d27234ca527f3e"
+
+[[files]]
+file = "mods/mafglib-0.4.3+mc1.21.1.jar"
+hash = "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081"
+
+[[files]]
+file = "mods/midnightlib-neoforge-1.9.3+1.21.1.jar"
+hash = "76775d3a3f3a6a0304330cdd6a810944babc9bd7ebbdefa24ec3346a7c62a703"
+
+[[files]]
+file = "mods/minersdelight(+ru)-1.21.1-1.4.5.jar"
+hash = "d26f24474581b94bd29583dd4933703016f42affa45005c7859780c56ead972c"
+
+[[files]]
+file = "mods/modernfix-neoforge-5.27.11+mc1.21.1.jar"
+hash = "bfc54bfb49b94dd33bc11f6f433f3d982413594baca7d3a58a0c06b2ab0cc145"
+
+[[files]]
+file = "mods/moonlight-neoforge-1.21.1-3.0.9.jar"
+hash = "81dbc81c4f327a61221f24bc8d9e353224db0b2a5a024baeed26d0a189509e4d"
+
+[[files]]
+file = "mods/mru-1.0.19+LTS+1.21.1+neoforge.jar"
+hash = "ed025100de31f5635d48a5a0cc4bc9c701d885bf3777e0c2ad8af5f2cad4601a"
+
+[[files]]
+file = "mods/noisium-neoforge-2.7.0+mc1.21-1.21.1.jar"
+hash = "ca097cd53fcdabecbcbf22e2515eb1956f313f094cd3a0506800ebf239e255f9"
+
+[[files]]
+file = "mods/nomansdelight-2.2.0.jar"
+hash = "237691ed70f2242b8b2ce649a8130298a243f31464488b76f8325a813c210412"
+
+[[files]]
+file = "mods/nomansland-1.5.12.jar"
+hash = "7c79f329a28be69b9cc8308f2cc2360874e95752086768008b81b3f75c90d8a6"
+
+[[files]]
+file = "mods/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar.disabled"
+hash = "ac48316842b478777cead0a39e7c8a51810ffa1d848d8ad8f3f56d03eedc5549"
+
+[[files]]
+file = "mods/ok_zoomer-neo-10.0.0-beta.13.jar"
+hash = "61da322358127329d40b36a028faa7d91c370a3708e08becf1f1b8b242c5eb61"
+
+[[files]]
+file = "mods/particlerain-4.0.0-beta.10+1.21.1-neoforge.jar.disabled"
+hash = "ef835ede1d24ba24371f1d77520a66c8010adf8c5f538a54099a14b13ae2e307"
+
+[[files]]
+file = "mods/pineapple_delight(+ru)-1.1.2-1.21.1-neoforge.jar"
+hash = "50fb01e669cbe6fa9653d33e0419fc5661b7a00042172bcb8626fc8d4b58ae98"
+
+[[files]]
+file = "mods/pizzadelight(+ru)-1.1.3-1.21.1.jar"
+hash = "659b0cb283cd1a698276e439d931e2c799f4b5678ddf11c3f76bfd5cf934a686"
+
+[[files]]
+file = "mods/player-animation-lib-forge-2.0.4+1.21.1 (1).jar"
+hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+
+[[files]]
+file = "mods/polytone-1.21-3.6.7-neoforge.jar"
+hash = "9db9431ca74d200b83329b94b731a539fbd8ad6e60d25493cccffdfd95e8afa2"
+
+[[files]]
+file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
+hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
+
+[[files]]
+file = "mods/railways-0.2.1+neoforge-mc1.21.1.jar"
+hash = "b7636c8b1b0352ed1a130dfe67f8bb574e2fc08803ed1cda4d3ea00505193914"
+
+[[files]]
+file = "mods/redirected-neoforge-1.0.0-1.21.1.jar"
+hash = "bdaf4c3399b7436d3be7d79729d87ed707a964420dc58720e13fb2f4960c8b9e"
+
+[[files]]
+file = "mods/reeses-sodium-options-neoforge-2.0.5+mc1.21.1 (1).jar"
+hash = "492343c8c09f531d6d9b4b416401cf4aa18400b14aab4bb21fa5cba8e8b8d55d"
+
+[[files]]
+file = "mods/relics-1.21.1-0.12.7.jar"
+hash = "2c831834af633fa66bc6fb9d6cba61709b96467bbae74b1931eddb8aa188ad4e"
+
+[[files]]
+file = "mods/rhino-2101.2.7-build.85 (1).jar"
+hash = "e0e9b0e78edd380440266c0f4ea8d489dac851ef075a4566a66a6dae2f7bbb66"
+
+[[files]]
+file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
+hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
+
+[[files]]
+file = "mods/sable-neoforge-1.21.1-2.0.3.jar"
+hash = "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
+
+[[files]]
+file = "mods/sable_createaddition_compat-0.1.13.jar"
+hash = "67f1d87010c41b06dc280437b82dc7da85ffba03fa7d602b582565097be2259c"
+
+[[files]]
+file = "mods/sable_xaero_bridge-0.1.11.jar"
+hash = "6e742003c27d94d49c6326ff2018655ca87585936ee32e9042d0badc1cdc9bf4"
+
+[[files]]
+file = "mods/sablebarehanded-neoforge-1.21.1-1.4.1.jar"
+hash = "facdd1f4cee0ed216ac21d356826d71a68e5f2fd8819e15ca5d83b4c13c54d97"
+
+[[files]]
+file = "mods/sablefloaters-0.0.6.jar"
+hash = "ff8c4d0c511b8cba10c926c08bf64f3442c0fd32013e957306ac476075442cd3"
+
+[[files]]
+file = "mods/sablejade-1.2.0.jar"
+hash = "c6ac8aeefe5e933f07a951d9f2628850e3d7b01eaafc82c89111038f0a28d5a0"
+
+[[files]]
+file = "mods/sablemassview-1.0.0.jar"
+hash = "8e5632e0ae6ce790b585dac2fd315c3ce58ae31441818f3adae3aa059b25d3af"
+
+[[files]]
+file = "mods/sablephysicscompat-1.3.0.jar"
+hash = "d5dbff984a89f63ac76ad9b9bedafbced87b0092f6d8ae90e30142e8427642c6"
+
+[[files]]
+file = "mods/seamless-loading-screen-2.2.1+1.21-neoforge.jar.disabled"
+hash = "ab251f81080f4d0891d8576ab14b598f3e46b699a17baf58ffab7a9a2efeb395"
+
+[[files]]
+file = "mods/simurail-1.21.1-0.0.0-a+e01f710.jar"
+hash = "3ab095e98cc6310318126a436f26b0b3e64e2582b5db6f532de84dfdf649f418"
+
+[[files]]
+file = "mods/slavic_delight-0.3.2.jar"
+hash = "bc91971263027ee679dbdf87a91e8701b0a72e418a5154468bf9293284c14717"
+
+[[files]]
+file = "mods/sliceanddice-forge-4.2.4.jar"
+hash = "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
+
+[[files]]
+file = "mods/sodium-extra-neoforge-0.8.7+mc1.21.1.jar"
+hash = "d116168ddbc2d6ba1bfcd6562ebedb5fc8df7b83771ac255dfb63085e6cc40f6"
+
+[[files]]
+file = "mods/sodium-neoforge-0.8.12-beta.2+mc1.21.1.jar"
+hash = "21f46a795137d7049a6736cea1e56837c633da532dd9fcb178363a8df771a4ea"
+
+[[files]]
+file = "mods/sound-physics-remastered-neoforge-1.21.1-1.4.10.jar"
+hash = "9eeaa9defffac7e07a4d0caa803b9e5fcb88ce68e00145487cbb727dbd7b06f8"
+
+[[files]]
+file = "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar"
+hash = "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7"
+
+[[files]]
+file = "mods/supplementaries-neoforge-1.21.1-3.6.8.jar"
+hash = "0dd0445af35aa15ad012833c4b8024d2ed70320d1ace0316d2f5b684b06a997d"
+
+[[files]]
+file = "mods/toms_storage-1.21-2.3.2.jar"
+hash = "34f242f60a601750cbe082870ef47bc3e45515fa55f26d4c9644e779ba1f50de"
+
+[[files]]
+file = "mods/tweaksdelight-26.06.18-1.21-neoforge.jar"
+hash = "6200cbd35cc433aaf1d5843add9227546d5d2085c8f6e190fddfabfd257afc03"
+
+[[files]]
+file = "mods/txnilib-neoforge-1.0.24-1.21.1.jar"
+hash = "411e811a6a53a63c2716dbf71cd1167e3a98d000b884458759d6192720be3e18"
+
+[[files]]
+file = "mods/vanilladelight-1.21.1-1.0.5.jar"
+hash = "4c41cebd08c6e4731dc11cde6e00a10eec0d89a7e3ded6a67d9c1c98b8d234e0"
+
+[[files]]
+file = "mods/vista-neoforge-1.21.1-4.3.1.jar"
+hash = "a17a64dd1f66c8428a892730b22bb07c16b14d7df5dbb9dc1682cecfc2706e36"
+
+[[files]]
+file = "mods/wakes-1.21.1-NeoForge-1.3.0.jar.disabled"
+hash = "524c9e81435e1aab0b5f8c1850f23891871241177cd194df1482b33ac7ee87e2"
+
+[[files]]
+file = "mods/waterwheelbearing-2.0.5.jar"
+hash = "ce4baa109f6257bdf3c987e787495977eca15d6258b2541ba78526c1fb893bd4"
+
+[[files]]
+file = "mods/xaerominimap-neoforge-1.21.1-25.3.13.jar"
+hash = "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2"
+
+[[files]]
+file = "mods/xaeroregions-1.0.4.jar"
+hash = "cd8fb52ad36faec30cd32b42d152d60099a6187c9a224e6feb0bc9ff477d8cce"
+
+[[files]]
+file = "mods/xaerotrainmap-1.0.0.jar"
+hash = "a815738ab6533e7b7c56311cca8c64c788ffb81ec853c505ffe22127c29c63ee"
+
+[[files]]
+file = "mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar"
+hash = "73b1447333e467d23645ce7b2c319f3ca951b393b44b3a6ed0f41f06927d42bb"
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
+hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
