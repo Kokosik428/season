@@ -1,6 +1,54 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/jei+.js"
+hash = "c608d6bac051e9b8d87478119150e0e9f0bdba17eb1a79f47d3d9e64f5a173a0"
+
+[[files]]
+file = "kubejs/client_scripts/translate.js"
+hash = "09ce98ac19887fe5dacf989551afe53aa2ffe2712e37514752dfaa1622683eae"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "5e28811bb089a816a075c894d2dcb00d2b486eb25688eaae0c5af72ecd69f6ec"
+
+[[files]]
+file = "kubejs/server_scripts/ccraft.js"
+hash = "8fa08470a64d157e2dc263ab017670bbed71ec90235ff9efa9846275faffdf52"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+
+[[files]]
+file = "kubejs/server_scripts/repair.js"
+hash = "e41a14f1f09ac378ae1118b35c4f1f22231b8ec79f4575a47203cf4cc6fe011a"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
 file = "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
 hash = "60b548bef04a2f0e1da686ee9035c2e3d4ed0459a17d7a4836fc26af6de6b60e"
 
