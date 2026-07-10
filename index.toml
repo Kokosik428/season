@@ -533,8 +533,8 @@ file = "mods/sodium-extra-neoforge-0.8.7+mc1.21.1.jar"
 hash = "d116168ddbc2d6ba1bfcd6562ebedb5fc8df7b83771ac255dfb63085e6cc40f6"
 
 [[files]]
-file = "mods/sodium-neoforge-0.8.12-beta.2+mc1.21.1.jar"
-hash = "21f46a795137d7049a6736cea1e56837c633da532dd9fcb178363a8df771a4ea"
+file = "mods/sodium-neoforge-0.8.12+mc1.21.1.jar"
+hash = "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266"
 
 [[files]]
 file = "mods/sound-physics-remastered-neoforge-1.21.1-1.4.10.jar"
