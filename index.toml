@@ -13,14 +13,6 @@ file = "kubejs/assets/kubejs/textures/item/example_item.png"
 hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
-file = "kubejs/client_scripts/jei+.js"
-hash = "c608d6bac051e9b8d87478119150e0e9f0bdba17eb1a79f47d3d9e64f5a173a0"
-
-[[files]]
-file = "kubejs/client_scripts/translate.js"
-hash = "09ce98ac19887fe5dacf989551afe53aa2ffe2712e37514752dfaa1622683eae"
-
-[[files]]
 file = "kubejs/config/client.json"
 hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
 
