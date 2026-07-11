@@ -509,8 +509,8 @@ file = "mods/seamless-loading-screen-2.2.1+1.21-neoforge.jar"
 hash = "ab251f81080f4d0891d8576ab14b598f3e46b699a17baf58ffab7a9a2efeb395"
 
 [[files]]
-file = "mods/simurail-1.21.1-0.0.0-a+e01f710.jar"
-hash = "3ab095e98cc6310318126a436f26b0b3e64e2582b5db6f532de84dfdf649f418"
+file = "mods/simurail-1.21.1.jar"
+hash = "1c830489e7e85f8c5bc3166faa4ef641f28b6f5096d38da0198ceedce150fc91"
 
 [[files]]
 file = "mods/slavic_delight-0.3.2.jar"
