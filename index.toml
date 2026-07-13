@@ -237,6 +237,10 @@ file = "mods/create_grappling_hooks-1.2.0.jar"
 hash = "93e92e126f48f14f76022229dd4d85ac357bf937c4c943ffc3b5e58a1bb8ce7b"
 
 [[files]]
+file = "mods/create_mechanical_extruder-1.21.1-2.2.2-6.0.10.jar"
+hash = "d192d0e665df0af3a06f65ffe0abad49beed802fdafebfcd8f4e9cf3b6b5c139"
+
+[[files]]
 file = "mods/createaddition-1.6.0.jar"
 hash = "41876c3780b70365a1848994d146a73423cc19fbe86485885795d9e7d855e7e9"
 
@@ -385,8 +389,16 @@ file = "mods/lodestone-1.21.1-1.8.2.jar"
 hash = "cc961af6a77391628378c1c838e521415fa895062b13def493d27234ca527f3e"
 
 [[files]]
+file = "mods/lootr-neoforge-1.21.1-1.11.37.121.jar"
+hash = "ba02303c6dfec4658a17d1cdc743c8f5335799ed8b2f2103dc95f896745b1262"
+
+[[files]]
 file = "mods/mafglib-0.4.3+mc1.21.1.jar"
 hash = "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081"
+
+[[files]]
+file = "mods/mechanicals-1.21.1-1.1.6.jar"
+hash = "0ce9bb97a68a2fc7340695eacd5b9898f2dc481dc6384df62bfb10c92c9de549"
 
 [[files]]
 file = "mods/midnightlib-neoforge-1.9.3+1.21.1.jar"
@@ -431,6 +443,10 @@ hash = "ef835ede1d24ba24371f1d77520a66c8010adf8c5f538a54099a14b13ae2e307"
 [[files]]
 file = "mods/player-animation-lib-forge-2.0.4+1.21.1 (1).jar"
 hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+
+[[files]]
+file = "mods/polymorph-neoforge-1.1.0+1.21.1.jar"
+hash = "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
 
 [[files]]
 file = "mods/polytone-1.21-3.6.7-neoforge.jar"
